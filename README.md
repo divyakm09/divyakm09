@@ -1,15 +1,21 @@
-![MasterHead](https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg)
 <h1 align="center">Hi 👋, I'm Divya Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyakm09&label=Profile%20views&color=0e75b6&style=flat" alt="divyakm09" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyakm09" alt="divyakm09" /></a> </p>
 
 - 🔭 I’m currently studying **BCA from St Andrews Institute of Technology and Management from MDU university**
 
 - 👯My Hobbies are **playing badminton, listening music**
 
+- 👨‍💻 All of my projects are available at [https://github.com/divyakm09?tab=repositories](https://github.com/divyakm09?tab=repositories)
+
 - 💬 Ask me about **html,css,js**
 
 - 📫 How to reach me **divyaj920861@gmail.com**
+
+- 📄 Know about my experiences [https://divyakm09.github.io/My-portfolio/](https://divyakm09.github.io/My-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
