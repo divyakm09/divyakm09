@@ -15,8 +15,8 @@ All about me
 - 🚀 I’m learning Data Analyst; - 👨‍💻 All of my projects are available at [https://github.com/divyakm09?tab=repositories](https://github.com/divyakm09?tab=repositories)
 - 💬 Ask me about **Advanced Excel, SQL, Power BI, Data Visualization, Data Cleaning** or anything , I am happy to help;
 - 📫 How to reach me: **divyaj920861@gmail.com**
-- - 📄 Know about my experiences [https://divyakm09.github.io/My-portfolio/](https://divyakm09.github.io/My-portfolio/)
-- 
+- 📄 Know about my experiences [https://divyakm09.github.io/My-portfolio/](https://divyakm09.github.io/My-portfolio/)
+ 
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
